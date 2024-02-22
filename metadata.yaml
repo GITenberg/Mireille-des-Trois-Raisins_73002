@@ -1,0 +1,33 @@
+_repo: Mireille-des-Trois-Raisins_73002
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Mazière, Pierre
+    aliases:
+    - Mazière, Pierre La
+    - La Maziere, Pierre
+    - Mazière, Pierre la
+    birthdate: 1879
+    deathdate: 1947
+    gutenberg_agent_id: '55988'
+    url: http://www.gutenberg.org/2009/agents/55988
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73002'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89103997482
+pgterms:marc905: 20230713231023lamazire
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bVald. Rasmussen, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mireille des Trois Raisins
+url: http://www.gutenberg.org/ebooks/73002
