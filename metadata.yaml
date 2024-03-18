@@ -1,5 +1,8 @@
 _repo: Mireille-des-Trois-Raisins_73002
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73002-h/images/cover.jpg
 creator:
   author:
     agent_name: La Mazière, Pierre
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '55988'
     url: http://www.gutenberg.org/2009/agents/55988
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73002#Mireille-des-Trois-Raisins
 gutenberg_issued: '2024-02-20'
 gutenberg_type: Text
 identifiers:
